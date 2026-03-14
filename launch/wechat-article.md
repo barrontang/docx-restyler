@@ -1,6 +1,6 @@
 # docx-restyler：把 Word 文档按模板自动定稿，这件事终于不用手工反复改了
 
-最近我做了一个小项目，叫 **docx-restyler**。
+最近我做了一个小项目：**docx-restyler**。
 
 它的目标很直接：
 

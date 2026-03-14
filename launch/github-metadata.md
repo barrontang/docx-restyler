@@ -1,7 +1,7 @@
 # GitHub metadata suggestions
 
 ## Description
-OpenClaw skill prototype for restyling a source Word document into the style of a reference .docx template.
+OpenClaw skill prototype for finalizing Word documents by restyling a source .docx against a reference template.
 
 ## Tagline
 Template-driven Word document finalization for OpenClaw.
