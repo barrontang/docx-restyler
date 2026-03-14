@@ -4,6 +4,19 @@
 
 Restyle and finalize Word documents by applying the formatting rules of a reference `.docx` template to a source `.docx` file.
 
+## Quick summary
+
+- **Input**: a template `.docx` + a source `.docx`
+- **Output**: a newly finalized `.docx`
+- **Focus**: formatting transfer, not content rewriting
+- **Best fit**: official reports, internal documents, Chinese formal materials
+
+## Why it matters
+
+A lot of document work is not writing — it is reformatting.
+
+`docx-restyler` exists to reduce the mechanical part: take a draft Word file, apply the formatting logic of a reference template, and output a cleaner final document.
+
 ## What it does
 
 `docx-restyler` is an OpenClaw skill prototype for cases where you already have:
@@ -47,3 +60,7 @@ This is important because many real source Word files do not use reliable built-
 ## One-sentence summary
 
 **`docx-restyler` is an OpenClaw skill prototype that reformats a source Word document into the style of a reference template, especially for Chinese formal-document structures.**
+
+## Current status
+
+This is still a prototype. It already works on real `.docx` template + source flows, but it should be treated as an iterative document-engine skill, not a finished production formatter.
