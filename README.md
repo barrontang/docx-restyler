@@ -1,5 +1,7 @@
 # docx-restyler
 
+[中文文档](README_CN.md)
+
 Restyle and finalize Word documents by applying the formatting rules of a reference `.docx` template to a source `.docx` file.
 
 ## What it does
